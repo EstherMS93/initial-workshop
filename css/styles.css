@@ -1,0 +1,15 @@
+table, tr, td {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+  }
+.red {
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: red;
+}
+#html-logo {
+    height: 100px;
+    width: 100px;
+}
